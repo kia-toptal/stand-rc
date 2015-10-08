@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://kia-toptal.github.io/stand-rc/STAND.ipa</string>
+					<string>https://kia-toptal.github.io/stand-rc/STAND_RC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>STAND</string>
+				<string>STAND RC</string>
 			</dict>
 		</dict>
 	</array>
